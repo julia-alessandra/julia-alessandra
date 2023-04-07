@@ -7,7 +7,7 @@
 📧Email: julialessandra3@gmail.com
 
 <div>
-<img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-alessandra&layout=compact&theme=dracula"> 
+<img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-alessandra&layout=compact&theme=dracula"> 
 </div>
 
 ##
