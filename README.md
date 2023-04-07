@@ -1,17 +1,13 @@
-### Oii! Meu nome é Júlia Alessandra 👋
+### Hi, I'm Julia 👋
 ##
+💻I am a student of the technical course in informatics at Cefet-MG, Belo Horizonte
 
-🌾Sou uma entusiasta de livros de romance, origamis e mitologia grega;
+👩‍💻Programming languages: C, Java, JavaScript, Python
 
-🌾Estou estudando HTML, Java Script, C e python;
-
-🌾Utilizo VS Code, jupyter notebook e Notion;
-
-🌾Informática | Cefet-MG
-
-##
+📧Email: julialessandra3@gmail.com
 
 <div>
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=julia-alessandra&show_icons=true&count_private=true&theme=dracula">
-<img align="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-alessandra&layout=compact&theme=dracula"> 
+<img align="center" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julia-alessandra&layout=compact&theme=dracula"> 
 </div>
+
+##
